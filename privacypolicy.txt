@@ -1,0 +1,99 @@
+# Privacy Policy for Aypoupen
+
+**Effective Date:** June 30, 2026
+
+Thank you for using **Aypoupen**. We are committed to protecting the privacy of our users, especially children. This Privacy Policy explains what information we collect, how we use it, and how we protect it.
+
+## Information We Collect
+
+### Google Sign-In
+
+If you choose to sign in with your Google account, we may collect:
+
+* Your Google account display name
+* Your email address
+* Your Google account unique identifier
+* Your profile picture (if available)
+
+This information is used only to identify your account, save your progress, and display your name on scoreboards.
+
+### Guest Mode
+
+You may also use Aypoupen as a Guest. In Guest mode, no personal account information is collected.
+
+## Game Scores
+
+Aypoupen stores game scores and progress using **Firebase**. The information stored may include:
+
+* Player name (if signed in)
+* Game scores
+* Progress within the app
+* Leaderboard rankings
+
+This information is used only to provide game features such as score tracking and friendly competition.
+
+## Children's Privacy
+
+Aypoupen is designed for children aged 2–7 years.
+
+We do not knowingly collect unnecessary personal information from children. If a parent or guardian believes that personal information has been collected in error, they may contact us to request its deletion.
+
+## How We Use Your Information
+
+We use collected information to:
+
+* Authenticate users through Google Sign-In.
+* Save game progress.
+* Store and display scores.
+* Enable leaderboard and score comparison features.
+* Improve the app's stability and performance.
+
+We do not use your information for advertising or marketing.
+
+## Data Sharing
+
+We do not sell, rent, or trade your personal information.
+
+Your information is shared only with trusted service providers that help operate the app, such as:
+
+* Google Authentication
+* Firebase (Google Cloud)
+
+These services process data according to their own privacy policies.
+
+## Data Security
+
+We use reasonable technical and organizational measures to help protect your information from unauthorized access, disclosure, or misuse.
+
+## Data Retention
+
+We keep account information and game scores only as long as necessary to provide the app's features or until you request that your data be deleted, where applicable.
+
+## Third-Party Services
+
+Aypoupen uses the following third-party services:
+
+* Google Sign-In
+* Firebase Authentication
+* Firebase Firestore or Realtime Database (if applicable)
+* Firebase Cloud Storage (if applicable)
+
+These services are provided by Google and are governed by Google's privacy practices.
+
+## Your Choices
+
+You may:
+
+* Play as a Guest without signing in.
+* Choose to sign in using your Google account.
+* Request deletion of your account data by contacting us.
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any updates will be posted within the app or on the page where this Privacy Policy is available.
+
+## Contact Us
+
+If you have questions about this Privacy Policy or wish to request deletion of your data, please contact us at:
+
+**Email:** ing.alainegho@gmail.com
